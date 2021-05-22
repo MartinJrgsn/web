@@ -1,0 +1,19 @@
+Head over to codepen.io/pen/ to get in an environment, where you can live preview your HTML code 
+snippets. Minimize CSS and Javascript for now.
+
+HTML stands for:
+HyperText Markup Language, where Markup is the keyword.
+
+When you want to start of a webpage, you will likely want a title. You can then start with the 
+head of the webpage. There are six different levels of titles. 
+
+<h1>h1 would be the biggest title</h1>
+<h2>h2 would be the second biggest</h2>
+<h3>all the</h3>
+<h4>way up</h4>
+<h5>to</h5>
+<h6>h6</h6>
+
+h6 is therefore the smallest of the heads, anything over (like <h7,8,9,..,n></h7,8,9,..,n>) does 
+not exist.
+
