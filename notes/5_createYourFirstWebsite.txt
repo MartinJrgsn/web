@@ -1,0 +1,42 @@
+Install atom from atom.io, or snap install atom --classic
+
+Install all these packages (plugins):
+	- atom-beautify
+	- atom-ternjs
+	- autoclose-html
+	- emmet
+	- csslint
+	- pigments
+	- language-ejs
+
+These are optional:
+	- atom-html-preview
+	- Sublime-Style-Column-Selection
+	- linter-eslint
+
+Open atom, open a project folder, preferably one connected to github.
+
+inside that project folder, create a folder called web development
+inside that folder, create a folder called HTML - Personal Site (this is where the website will be)
+inside the HTML - Personal Site folder, create a new file called index.html
+
+index.html is what most web devs name their homepage.
+
+Since you installed the emmet package, when you've started a new index.html file in atom, you can 
+just type html, and hit ENTER. This will bring up a structure, that you have to set up everytime 
+you desire to make a website. Using this package, you don't need to remember that whole system!
+
+The head of the webpage holds information about how the browser should handle the webpage.
+Under <title></title> in the head of the index.html file, write what the title for the webpage 
+should be.
+
+the meta charset should be set to utf-8, when coding HTML5, because this is the standard encoding 
+standard. The reason is because it includes all of the international symbols, and in fact every 
+symbol that is included in the unicode characterset!
+
+unicode-table.com shows a table of all the unicode characters. Unicode even includes emojis, so if 
+you do follow the standard, you get to use emojis on your webpage with utf-8 encoding.
+
+In the <body>, you get to start with the content of the webpage. Since what I'm writing is a 
+personal webpage, my level 1 heading, is my name; Martin Jørgensen. Underneath my name, I have a 
+little bit of information about myself. And below that, I've got my education listed.
