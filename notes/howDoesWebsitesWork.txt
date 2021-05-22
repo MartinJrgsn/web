@@ -1,0 +1,19 @@
+How Do Websites Work?
+
+What does HTML, CSS and Javascript do exactly?
+
+In order to access a webpage, we need a browser.
+The job of a browser is to render the websites, so that we can perceive them as a page and not 
+just pure lines of text.
+
+The data you receive from a server, usually consists of three types of files:
+HTML, CSS and JS. What exactly do they do.
+
+- HTML code file is responsible for the structure of a website. Can be used to add a image, 
+  button, text box. Whatever it is I need in a website.
+
+- CSS files are responsible for styling a website. Specify how you want a website to look.
+  If you made a button in the HTML code, CSS can then tell that button to be a specific color, 
+  the text some other color, and to specify the desired text font.
+
+- Javascript code allows a website to actually do things, or have behavior.
