@@ -1,0 +1,47 @@
+Let's take a look at an easy example of Hello World!
+
+<h1>Hello World!</h1>
+ |  ^^^^^^^^^^^   |
+ |    content     |
+start		 end
+tag		 tag
+
+By writing this code, we ask our browser to make the content, Hello World!, into a title for our 
+webpage. Our browser understands then that everything between the start tag, and the end tag, is 
+required to be presented as the title.
+
+There are also some tags that are self-closing. By this I mean that you do not need to specify the 
+end of the tag, for the browser to understand how to handle the function. As an example from 
+earlier. To get a newline in your webpage, you need the <br> tag. This tag is a self-closing tag.
+
+How do we find out wether or not to use a end tag?
+This is where we use the reference; www.devdocs.io, to investige which tags are self-closing, and 
+which tags you have to manually close.
+
+If you take a look under the HTML5 tab, and scroll down to <h3>, you can check the "tag omission" 
+in the heading, where it says "None, both the starting and ending tag are mandatory".
+
+Under <br> the tag omission says: "Must have a start tag, and must not have an end tag. ...".
+
+If you would like to incapsulate your <h1>Title</h1>, you can use the <hr> tag before, and after 
+the title. This <hr> is commonly reffered to as a horizontal rule. You can edit the size, color 
+and shade of this line, to get the desired look of your title display.
+If you also combine a <center></center> tag, your title will really start to come together!
+
+<center>
+  <hr size="3" noshade>
+    <h1>The Adventures of 
+    <br>Sherlock Holmes</h1>
+    <h3>by</h3>
+    <h2>Arthur Conan Doyle</h2>
+  <hr size="3" noshade>
+</center>
+
+This is the example from the course, which in my own opinion, has a really nice look to it. That 
+is even before I've learned anything about CSS. Which perhaps says something about my standards 
+for satisfaction.
+
+If you take a look at the horizontal rule tag, you can see there are something inside the tag. 
+This is whats called attribute. It gives more information to the browser, that specifies more of 
+what we want from the horizontal rule. In the example, L32 and L37, you can see size="3". This 
+means that i want the horizontal rule to be in size 3, and not the default size of 2.
