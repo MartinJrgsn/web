@@ -17,3 +17,17 @@ head of the webpage. There are six different levels of titles.
 h6 is therefore the smallest of the heads, anything over (like <h7,8,9,..,n></h7,8,9,..,n>) does 
 not exist.
 
+Check out:
+https://www.w3schools.com/html/html_headings.asp
+
+for more information regarding the different levels of heads.
+
+www.devdocs.io
+Is a collection of elements for different languages. Under the HTML5 tab, you can scroll down to 
+h1	||||||||||||||||||||||||||||||||||
+h2	||to again get more information ||
+h3	||about the different types of  ||
+h4	||heads you can use, when       ||
+h5	||creating your website.        ||
+h6	||||||||||||||||||||||||||||||||||
+
