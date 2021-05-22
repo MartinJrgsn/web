@@ -1,0 +1,24 @@
+What exactly is the internet?
+
+It is basically a long wire, connecting different computers together.
+Some of these computers attached to this wire, have a special job. They have to be online 
+24/7, ready to serve you the data that you request. These computers are what's called a server.
+The computer that are accessing these servers, are called clients.
+
+When you want to access a specific server, like Google. How does the client (your computer) know 
+where to go along this long wire?
+You type in www.google.com, your browser will send a message to your ISP (Internet Service 
+Provider), saying that I want access to google.com. Your ISP will then relay that message to 
+something called a DNS Server (Domain Name System Server). A DNS Server is a database that joins 
+the domain name with the servers IP address. Once the DNS Server finds Google's IP address, it 
+sends that back to your browser, so now your browser knows the exact IP address to find Google's 
+server.
+
+https://www.submarinecablemap.com/#/ shows a map over the internets backbone. The actual wires 
+running around the world, connecting every client, ISP, DNS Server and server together.
+
+We are familiar with typing in domain names to reach Google's homepage, but what you also can do 
+is to type in Google's IP address, which will connect you directly to their homepage. As im typing 
+this, their IP address is:
+
+216.58.211.132
