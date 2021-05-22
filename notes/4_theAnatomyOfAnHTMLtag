@@ -45,3 +45,6 @@ If you take a look at the horizontal rule tag, you can see there are something i
 This is whats called attribute. It gives more information to the browser, that specifies more of 
 what we want from the horizontal rule. In the example, L32 and L37, you can see size="3". This 
 means that i want the horizontal rule to be in size 3, and not the default size of 2.
+
+You can find the title shown on this website, to get a better understanding of how it actually 
+looks like:		https://www.gutenberg.org/files/1661/1661-h/1661-h.htm
