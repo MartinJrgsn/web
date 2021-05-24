@@ -1,0 +1,16 @@
+C	  S	S
+Cascading Style Sheets
+
+Why was it created and why it's necessary.
+
+Back when the internet was learning to crawl, people used to style their websites with pure HTML. 
+As we've seen so far HTML is not a styling language, but a structural tool for a websites backbone.
+
+In order to style my homepage using HTML, we had to write 12 lines of code, which could easily 
+have spelling errors, forgotten end tags, or general faulty use of the HTML syntax. The 12 lines 
+of code was mostly just to setup tables. This is why people started to use Cascading Style Sheets. 
+Although it can't really do anything by itself, its only purpose it to style markup language like 
+HTML and XML.
+
+In this section, we will bring my old pure HTML website out of the 1990's, and into current day 
+and age.
