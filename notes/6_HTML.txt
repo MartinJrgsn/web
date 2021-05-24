@@ -1,0 +1,12 @@
+The final information regarding the HTML section of this course, can be found under: 
+web/webDevelopment/HTML_PersonalSite/*
+
+Start with the index.html file, this is the main site of my homepage. If I had my own domain, this 
+is where clients would land firstly. Read the index.html file, look through the code structure, 
+look at the comments, and try it yourself.
+
+If you are reading this, and would like to try to create a locally hosted webpage, all you need 
+is a computer and a text-editor, such as atom, visual code, vi, vim, notes etc.
+
+Open the filename.html, and start to write. After the code has been saved, you can update your 
+browser to see the changes, or if something broke, like faulty syntax.
