@@ -1,0 +1,3 @@
+When you want to implement some CSS into your pure HTML website, you can implement it directly 
+into the tag that you want to affect. So if we take a copy of our index.html file into this folder 
+I can start implementing CSS without affecting the HTML section of my web course repo.
